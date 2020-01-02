@@ -5,8 +5,8 @@
 This Portfolio contains data science projects for academic, self learning and hobby.
 
 ## Experience
-- Interpreting data, analyzing results using statistical techniques.
-- Analyzing data with different tools like Stat-graphics
+- Doing Exploratory Data Analysis with Python and R.
+- Verifying different Business Techniques by using Hypothesis Testings like ANOVA,Chi-square etc.
 - Acquiring data from primary or secondary data sources and maintaining databases.
 - Use statistical methods to analyze data and generate useful business reports.
 - Gathering data from big data platform like Twitter analyzing the data and make decision.
