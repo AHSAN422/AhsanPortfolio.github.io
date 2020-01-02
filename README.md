@@ -22,3 +22,33 @@ This Portfolio contains data science projects for academic, self learning and ho
 
 ### Frameworks
 <img src="https://github.com/AHSAN422/ahsan422.github.io/blob/master/portfolio%20img/Frameworks.JPG" width = "700" hight="700">
+
+## Content
+
+### Data Analysis
+
+
+### Natural Language Processing 
+
+
+### Visualizations
+Avocado Sales 
+<a href="https://public.tableau.com/profile/muhammad.ahsan3213#!/vizhome/AvocadoSale/Dashboard1">Avocado Sales link</a>
+
+
+Research and development 
+<a href="https://public.tableau.com/profile/muhammad.ahsan3213#!/vizhome/MOMProject322018_0/Sheet1">Research and development link</a>
+
+DataScience Universities Accross The USA
+
+<a href="https://public.tableau.com/profile/muhammad.ahsan3213#!/vizhome/DatascienceUniversitiesAcrossTheUS/Dashboard1">Research and development link</a>
+
+
+Co2 Emission
+
+<a href="https://public.tableau.com/profile/muhammad.ahsan3213#!/vizhome/Worldco2emission_0/Sheet1">Co2 Emission link</a>
+
+Human Trafiking 
+
+<a href="https://public.tableau.com/profile/muhammad.ahsan3213#!/vizhome/HumanTraffickingvisualizationdashboard/Dashboard1">Human Trafiking link</a>
+
