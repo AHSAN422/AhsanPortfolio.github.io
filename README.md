@@ -4,8 +4,5 @@
 
 This Portfolio contains data science projects for academic, self learning and hobby.
 
-## Data Science Life Cycle
-**1.  Define**
-**2.  Discover**
-**3.  Develop**
-**4.  Deploy**
+## Experience
+https://github.com/AHSAN422/ahsan422.github.io/blob/master/portfolio%20img/Frameworks.JPG?raw=true
