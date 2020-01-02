@@ -15,13 +15,13 @@ This Portfolio contains data science projects for academic, self learning and ho
 - Data Visualization with python, R and different visualization software's like Tableau,Power BI
 
 ### Programming Langue's
-<img src="https://github.com/AHSAN422/ahsan422.github.io/blob/master/portfolio%20img/Langue's.JPG", width = "700", hight="700">
+<img src="https://github.com/AHSAN422/ahsan422.github.io/blob/master/portfolio%20img/Langue's.JPG" width = "700" hight="700">
 
 ### Development Tools 
-<img src="https://github.com/AHSAN422/ahsan422.github.io/blob/master/portfolio%20img/Tools.JPG", width = "700", hight="700">
+<img src="https://github.com/AHSAN422/ahsan422.github.io/blob/master/portfolio%20img/Tools.JPG" width = "700" hight="700">
 
 ### Frameworks
-<img src="https://github.com/AHSAN422/ahsan422.github.io/blob/master/portfolio%20img/Frameworks.JPG", width = "700" ,hight="700">
+<img src="https://github.com/AHSAN422/ahsan422.github.io/blob/master/portfolio%20img/Frameworks.JPG" width = "700" hight="700">
 
 ## Content
 
