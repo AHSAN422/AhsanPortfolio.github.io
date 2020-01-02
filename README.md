@@ -48,7 +48,7 @@ Co2 Emission
 
 <a href="https://public.tableau.com/profile/muhammad.ahsan3213#!/vizhome/Worldco2emission_0/Sheet1">Co2 Emission link</a>
 
-Human Trafiking 
+Human Trafficking 
 
-<a href="https://public.tableau.com/profile/muhammad.ahsan3213#!/vizhome/HumanTraffickingvisualizationdashboard/Dashboard1">Human Trafiking link</a>
+<a href="https://public.tableau.com/profile/muhammad.ahsan3213#!/vizhome/HumanTraffickingvisualizationdashboard/Dashboard1">Human Trafficking link</a>
 
