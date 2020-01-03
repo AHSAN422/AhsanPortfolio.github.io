@@ -44,9 +44,12 @@ Exploratory Data Analysis ( Variable Identification, Univariate analysis, Bi-Var
 
 **Chat App with chatterbot library**
 
+<a href="https://github.com/AHSAN422/Chatbot_chatterbot_app">Chat App link</a>
+
 **ChatBot App with Deep Neural Network**
 
-
+<a href="https://github.com/AHSAN422/chatbot-with-deep-neural-network">Chat App link</a>
+                                                                     
 ### Visualizations
 Avocado Sales 
 <a href="https://public.tableau.com/profile/muhammad.ahsan3213#!/vizhome/AvocadoSale/Dashboard1">Avocado Sales link</a>
