@@ -27,6 +27,7 @@ This Portfolio contains data science projects for academic, self learning and ho
 
 ### Data Analysis
 **Cardio Data Analysis**
+
 The objective was to study and analyze which of the products is effective in terms of fitness and usage. The project involved interpretation of statistical output to generate managerial recommendations, using regression as a prediction device and most importantly evaluating and choosing of alternative statistical models.
 
 **Skills and Tools**
@@ -35,7 +36,15 @@ Exploratory Data Analysis ( Variable Identification, Univariate analysis, Bi-Var
 
 <a href ="https://ahsan422.github.io/R-cardio-data-analysis-project-/">Project Link</a>
 
+**R Shiny App For Exploratory Data Analysis**
+
+<a href ="https://ahsanmuh422.shinyapps.io/eda_app/">EDA App Link</a>
+
 ### Natural Language Processing 
+
+**Chat App with chatterbot library**
+
+**ChatBot App with Deep Neural Network**
 
 
 ### Visualizations
