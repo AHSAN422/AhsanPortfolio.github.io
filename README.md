@@ -15,22 +15,41 @@ This Portfolio contains data science projects for academic, self learning and ho
 - Data Visualization with python, R and different visualization software's like Tableau,Power BI
 
 ### Programming Langue's
-<img src="https://github.com/AHSAN422/ahsan422.github.io/blob/master/portfolio%20img/Langue's.JPG" width = "700" hight="700">
+<img src="https://github.com/AHSAN422/AhsanPortfolio.github.io/blob/master/portfolio%20img/Langue's.JPG?raw=true" width = "700" hight="700">
 
 ### Development Tools 
-<img src="https://github.com/AHSAN422/ahsan422.github.io/blob/master/portfolio%20img/Tools.JPG" width = "700" hight="700">
+<img src="https://github.com/AHSAN422/ahsan422.github.io/blob/master/portfolio%20img/Tools.JPG?raw=true" width = "700" hight="700">
 
 ### Frameworks
-<img src="https://github.com/AHSAN422/ahsan422.github.io/blob/master/portfolio%20img/Frameworks.JPG" width = "700" hight="700">
+<img src="https://github.com/AHSAN422/ahsan422.github.io/blob/master/portfolio%20img/Frameworks.JPG?raw=true" width = "700" hight="700">
 
 ## Content
 
 ### Data Analysis
+**Cardio Data Analysis**
 
+The objective was to study and analyze which of the products is effective in terms of fitness and usage. The project involved interpretation of statistical output to generate managerial recommendations, using regression as a prediction device and most importantly evaluating and choosing of alternative statistical models.
+
+**Skills and Tools**
+
+Exploratory Data Analysis ( Variable Identification, Univariate analysis, Bi-Variate analysis, Missing Value Treatement), R
+
+<a href ="https://ahsan422.github.io/R-cardio-data-analysis-project-/">Project Link</a>
+
+**R Shiny App For Exploratory Data Analysis**
+
+<a href ="https://ahsanmuh422.shinyapps.io/eda_app/">EDA App Link</a>
 
 ### Natural Language Processing 
 
+**Chat App with chatterbot library**
 
+<a href="https://github.com/AHSAN422/Chatbot_chatterbot_app">Chat App link</a>
+
+**ChatBot App with Deep Neural Network**
+
+<a href="https://github.com/AHSAN422/chatbot-with-deep-neural-network">Chat App link</a>
+                                                                     
 ### Visualizations
 Avocado Sales 
 <a href="https://public.tableau.com/profile/muhammad.ahsan3213#!/vizhome/AvocadoSale/Dashboard1">Avocado Sales link</a>
