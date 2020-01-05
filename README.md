@@ -1,6 +1,4 @@
-# ahsan422.github.io
-
-## Data Science Portfolio by MUHAMMAD AHSAN 
+# Data Science Portfolio by MUHAMMAD AHSAN 
 
 This Portfolio contains data science projects for academic, self learning and hobby.
 
@@ -37,6 +35,10 @@ Exploratory Data Analysis ( Variable Identification, Univariate analysis, Bi-Var
 <a href ="https://ahsan422.github.io/R-cardio-data-analysis-project-/">Project Link</a>
 
 **R Shiny App For Exploratory Data Analysis**
+The objective was to build an app that helps in Exploratory Data Analysis without writing one line of code. Upload dataset in any file format like CSV/text or excel file. You can check the structure of the dataset, statistical summary, Uni-variate analysis, Bi-Variate analysis thought to the plot, user can convert strings to factor and chose a desired type of visualization. This app will collect automatically numeric columns/features and gives us the correlation among them Machine Learning algorithm Linear regression also applied on Bi-Variate visualizations.
+
+**Skills and Tools**
+R , R-Shiny, ggplot2,Linear Regression, shinydashboard,DataExplorer,networkD3
 
 <a href ="https://ahsanmuh422.shinyapps.io/eda_app/">EDA App Link</a>
 
